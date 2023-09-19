@@ -13,7 +13,7 @@ I am a high school student, this is a game I learned and made on the Internet. T
 #### **注意!!!安裝Assets.rar檔較為複雜，建議在安裝前先將自己Unity的專案備份**
 將檔案解壓縮後，找到自己Unity專案檔案，將解壓說檔解壓縮至此，**建議將縮檔名更改，壓縮後檔名**，以便後續調整，之後就可做使用。
 
-<span style="color:red">!!!如跳出需取代檔案一律不要取代!!!</span>
+***!!!如跳出需取代檔案一律不要取代!!!***
 
 
 
